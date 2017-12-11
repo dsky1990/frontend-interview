@@ -2,4 +2,4 @@
 
 ## [300ms延迟](https://github.com/dsky1990/frontend-interview/wiki/300ms%E5%BB%B6%E8%BF%9F)
 
-## 点透
+## [点透](https://github.com/dsky1990/frontend-interview/wiki/%E7%82%B9%E9%80%8F)
